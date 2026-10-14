@@ -47,7 +47,7 @@ warn "For authorized security testing / CTF use only. Scan targets you own or ha
 echo ""
 
 info "Checking recommended wordlists & tools...."
-#sudo apt update && sudo apt install -y dirb seclists gobuster ffuf nikto
+sudo apt update && sudo apt install -y dirb seclists gobuster ffuf nikto
 echo ""
 
 prompt "Enter the Target URL Or Host:- " target
