@@ -30,6 +30,7 @@ session — no need to restart the script between Gobuster, Ffuf, and Nikto.
 ## Usage
 
 chmod +x RookieRecon.sh
+
 ./RookieRecon.sh
 
 
